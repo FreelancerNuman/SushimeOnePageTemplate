@@ -1,0 +1,312 @@
+/* common css */
+body{
+	font-family: 'Montserrat', sans-serif;
+	color: #fff;
+}
+/* Header css */
+nav.navbar {
+    border-bottom: 2px solid #ff7f7fa3;
+}
+.nav-color{
+	background-color: #ff7f7fe8;
+	transition: 0.3s;
+}
+.fa-bars{
+	color: #fff;
+}
+a.navbar-brand {
+    margin-right: 0px;
+}
+.logo{
+	width: 70px;
+	height: 54px;
+}
+.nav-link{
+	color: #fff;
+	text-transform: uppercase;
+	margin-left: 12px;
+	font-weight: 700;
+	font-size: 16px;
+}
+.nav-link:hover{
+	color: #fff;
+}
+.fa-search{
+	color: #fff;
+	font-size: 16px;
+}
+.fa-search:hover{
+	color: #fff;
+}
+/* Banner Css */
+#banner{
+	background-image: url(../images/background.png);
+	background-size: cover;
+	background-repeat: no-repeat;
+	width: 100%;
+	height: 700px;
+	background-position: center ;
+	background-color: #ff7f7f;
+}
+.jumbotron{
+	background: transparent;
+}
+.banner_box{
+	margin-top: 10%;
+}
+.banner_title{
+	text-transform: uppercase;
+	font-weight: 700;
+	font-size: 60px;
+}
+.banner_text{
+	padding-right: 55%;
+	font-size: 20px;
+	word-spacing: 5px;
+	font-weight: 400;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+.banner_btn{
+	color: #ff7f7f;
+	text-transform: uppercase;
+	background: #fff;
+	padding: 8px 35px;
+	border-radius: 30px;
+	border: 2px solid #fff;
+	transition: 0.3s;
+}
+.banner_btn:hover{
+	color: #fff;
+	background: transparent;
+	transform: translateY(-3px);
+}
+/* Best Seller CSS */
+#bt_seller{
+	background-color: #ff7f7f;
+	max-width:100%;
+	height: auto;
+	padding-bottom: 40px;
+	position: relative;
+}
+.suchi_box {
+    position: relative;
+    top: -60px;
+}
+.title {
+    text-transform: uppercase;
+    font-weight: 700;
+    font-size: 40px;
+}
+.suchi_paragraph {
+    font-size: 15px;
+    margin: 0px 27%;
+}
+.card{
+	background: transparent;
+	border: none;
+}
+img.card-image {
+    margin: auto;
+}
+/* Best Tasty CSS */
+section#bt_tasty {
+    padding-top: 70px;
+}
+.tasty_content {
+    margin-top: 30px;
+}
+.tasty_title {
+    color: #ff7f7f;
+    font-size: 40px;
+    text-transform: uppercase;
+}
+.tasty_para {
+    color: #ff7f7f;
+    font-size: 20px;
+    margin: 30px 0px;
+}
+button.tasty_btn {
+    color: #fff;
+    background: #ff7f7f;
+    padding: 10px 50px;
+    border: 2px solid #ff7f7f;
+    border-radius: 30px;
+    text-transform: uppercase;
+	transition: 0.3s;
+}
+button.tasty_btn:hover {
+    color: #ff7f7f;
+    background: #fff;
+    padding: 10px 50px;
+	transform: translateY(-3px);
+}
+/* Statistics CSS */
+#statistics{
+	width:100%;
+	height:auto;
+	background-color: #ff7f7f;
+	padding-bottom: 70px;
+	position: relative;
+}
+.statistic_box {
+    text-align: center;
+    padding: 30px 0px;
+}
+.statistic_title {
+    text-transform: uppercase;
+    font-size: 40px;
+}
+.statistic_paragraph {
+    margin-top: 20px;
+    font-size: 16px;
+    padding: 0px 26%;
+}
+.statis_box {
+	margin-top: 20px;
+    border: 5px solid #fff;
+    text-align: center;
+    border-radius: 100%;
+    padding: 70px 0px;
+}
+.number {
+    font-size: 50px;
+    margin-top: 20px;
+}
+.text {
+    font-size: 50px;
+    margin-bottom: 20px;
+}
+/* Delicious CSS */
+section#delicious{
+    padding-top: 40px;
+    padding-bottom: 70px;
+}
+.delicious_img{
+	margin-top: 30px;
+}
+.delicious_content {
+    margin-top: 60px;
+}
+/* Review CSS */
+#review{
+	background-image:url(../images/back6.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	width: 100%;
+	height: auto;
+	height:550px;
+}
+.reviewer_box{
+	margin-top: 10%;
+}
+.carousel-control-prev{
+	left:-100px;
+}
+.carousel-control-next{
+	right:-100px;
+}
+.reviewer_text {
+    font-size: 17px;
+    margin: 0 30%;
+    padding: 30px 0px;
+}
+.reviewer_nam {
+    font-size: 25px;
+    font-weight: normal;
+}
+/* Subscribe CSS */
+.subs_title {
+    color: #ff7f7f;
+    text-transform: uppercase;
+    font-size: 40px;
+}
+.subs_para {
+    color: #ff7f7f;
+    margin: 30px 0px;
+    padding: 0 27%;
+}
+.subs_form{
+	height: 50px;
+	width: 100%;
+}
+input[type="text"]{
+	border:none;
+	outline: none;
+	background-color: #f4f4f4;
+	height:50px;
+	border-radius: 25px;
+	padding: 0 25px;
+	width: 400px;
+	position: relative;
+}
+input[type="submit"]{
+	border:none;
+	outline:none;
+	background-color: #ff7f7f;
+	height:50px;
+	color: #fff;
+	border-radius: 25px;
+	width: 140px;
+	position: relative;
+	left: -40px;
+}
+/* Footer CSS */
+footer{
+	background-color: #111;
+	width: 100%;
+	height: auto;
+	padding-bottom: 40px;
+	position: relative;
+}
+.Sushime_title {
+    font-size: 25px;
+	margin-top: 15px;
+	text-transform: uppercase;
+}
+.Sushime_para {
+    margin: 25px 0px;
+    font-size: 15px;
+    padding-right: 65px;
+}
+.Sushime_icons a {
+    color: #111;
+    background: #fff;
+    border-radius: 100%;
+    margin-left: 8px;
+    padding: 8px;
+}
+.Sushime_icons a:hover {
+	background-color: #ff7f7f;
+	color: #fff;
+}
+.Sushime_icons a:first-child{
+	margin-left: 0px;
+}
+.fa-facebook{
+	padding: 10px 6px;
+}
+.fa-instagram{
+	padding: 0px 5px;
+}
+.fa-twitter{
+	padding: 0px 5px;
+}
+.fa-whatsapp{
+	padding: 0px 5px;
+}
+.links li {
+    list-style: none;
+}
+.links a {
+    color: #fff;
+    font-size: 15px;
+    line-height: 30px;
+}
+.links a:hover {
+   text-decoration: none;
+   color: #ff7f7f;
+}
+.links {
+    margin-top: 20px;
+}

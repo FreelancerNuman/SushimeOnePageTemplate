@@ -1,0 +1,225 @@
+@media screen and (max-width: 480px) and (min-width: 300px){
+	.logo{
+		width: 40px !important;
+		height: 31px !important;
+	}
+	#banner{
+		height: 400px !important;
+	}
+	.banner_box{
+		margin-top: 18% !important;
+	}
+	.banner_title{
+		font-size: 40px !important;
+	}
+	.banner_text{
+		padding-right: 10% !important;
+		font-size: 10px !important;
+		padding-top: 0px !important;
+		padding-bottom: 0px !important;
+	}
+	.banner_btn{
+		padding: 5px 15px !important;
+		font-size: 10px !important;
+	}
+	.suchi_box {
+		top: -40px !important;
+	}
+	.suchi_paragraph {
+		margin: 0px 2% !important;
+		font-size: 13px !important;
+	}
+	.title {
+		font-size: 30px !important;
+	}
+	.tasty_content {
+		text-align: center !important;
+	}
+	.tasty_title {
+		font-size: 30px !important;
+	}
+	.tasty_para {
+		font-size: 15px !important;
+		margin: 20px 0px !important;
+	}
+	button.tasty_btn {
+		padding: 8px 40px !important;
+	}
+	.statistic_paragraph {
+		font-size: 15px !important;
+		padding: 0px 0% !important;
+	}
+	.statis_box {
+		padding: 55px 0px !important;
+	}
+	.delicious_content {
+		text-align: center !important;
+	}
+	#review{
+		height:400px !important;
+	}
+	.reviewer_box{
+		margin-top: 12% !important;
+	}
+	.reviewer_text {
+		font-size: 14px !important;
+		margin: 0 10% !important;
+		padding: 15px 0px !important;
+	}
+	.reviewer_nam {
+		font-size: 18px !important;
+	}
+	.carousel-control-prev{
+		left: -2px !important;
+	}
+	.carousel-control-next{
+		right: -2px !important;
+	}
+	.subs_para {
+		padding: 0 0% !important;
+		margin: 15px 0px;
+	}
+	input[type="text"]{
+		width: 210px !important;
+		right: -20px !important;
+	}
+	input[type="submit"]{
+		width: 110px !important;
+		left: -20px !important
+	}
+}
+@media screen and (max-width: 780px) and (min-width: 482px){
+	#banner{
+		height: 500px !important;
+	}
+	.banner_box{
+		margin-top: 15% !important;
+	}
+	.banner_title{
+		font-size: 45px !important;
+	}
+	.banner_text{
+		padding-right: 15% !important;
+		font-size: 15px !important;
+	}
+	.banner_btn{
+		padding: 7px 23px !important;
+		font-size: 13px !important;
+	}
+	.suchi_paragraph {
+		margin: 0px 18% !important;
+	}
+	.tasty_content {
+		text-align: center !important;
+	}
+	.statis_box {
+		padding: 20px 0px !important;
+	}
+	.statistic_paragraph {
+		font-size: 15px !important;
+		padding: 0px 0% !important;
+	}
+	.number {
+		font-size: 35px !important;
+	}
+	.text {
+		font-size: 35px !important;
+	}
+	.delicious_content {
+		text-align: center !important;
+	}
+	.carousel-control-prev{
+		left:-10px !important;
+	}
+	.carousel-control-next{
+		right:-10px !important;
+	}
+	#review{
+		height:450px !important;
+	}
+	.reviewer_text {
+		font-size: 15px !important;
+		margin: 0 20% !important;
+		padding: 20px 0px !important;
+	}
+	.reviewer_nam {
+		font-size: 20px !important;
+	}
+	.subs_para {
+		padding: 0 10% !important;
+	}
+	input[type="text"]{
+		width: 240px !important;
+	}
+	input[type="submit"]{
+		width: 120px !important;
+	}
+}
+@media screen and (max-width: 1000px) and (min-width: 770px){
+	#banner{
+		height: 550px !important;
+	}
+	.banner_box{
+		margin-top: 8% !important;
+	}
+	.banner_title{
+		font-size: 48px !important;
+	}
+	.banner_text{
+		padding-right: 15% !important;
+		font-size: 15px !important;
+	}
+	.banner_btn{
+		padding: 7px 23px !important;
+		font-size: 14px !important;
+	}
+	.suchi_paragraph {
+		margin: 0px 20% !important;
+	}
+		.statis_box {
+		padding: 20px 0px !important;
+	}
+	.number {
+		font-size: 35px !important;
+	}
+	.text {
+		font-size: 35px !important;
+	}
+	#review{
+		height:500px !important;
+	}
+	.carousel-control-prev{
+		left:-50px !important;
+	}
+	.carousel-control-next{
+		right:-50px !important;
+	}
+	.reviewer_text {
+		font-size: 16px !important;
+		margin: 0 20% !important;
+		padding: 20px 0px !important;
+	}
+	.reviewer_nam {
+		font-size: 20px !important;
+	}
+	.reviewer_box{
+		margin-top: 15% !important;
+	}
+	.subs_para {
+		padding: 0 10% !important;
+	}
+	.Sushime_title {
+		font-size: 18px !important;
+	}
+	.Sushime_para {
+		margin: 20px 0px !important;
+		font-size: 13px !important;
+	}
+	.links a {
+		font-size: 9px !important;
+		line-height: 20px !important;
+	}
+	.links {
+		margin-top: 10px !important;
+	}
+}
