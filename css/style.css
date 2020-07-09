@@ -5,11 +5,7 @@ body{
 }
 /* Header css */
 nav.navbar {
-    border-bottom: 2px solid #ff7f7fa3;
-}
-.nav-color{
-	background-color: #ff7f7fe8;
-	transition: 0.3s;
+   background-color: #ff7f7fe8;
 }
 .fa-bars{
 	color: #fff;
