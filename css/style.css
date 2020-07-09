@@ -5,7 +5,7 @@ body{
 }
 /* Header css */
 nav.navbar {
-   background-color: #ff7f7fe8;
+	background-color: #ff7f7fe8;
 }
 .fa-bars{
 	color: #fff;
@@ -212,6 +212,10 @@ section#delicious{
     font-weight: normal;
 }
 /* Subscribe CSS */
+.subs_carve{
+	width: 100%;
+	height:100%;
+}
 .subs_title {
     color: #ff7f7f;
     text-transform: uppercase;
@@ -256,7 +260,7 @@ footer{
 	position: relative;
 }
 .Sushime_title {
-    font-size: 25px;
+    	font-size: 25px;
 	margin-top: 15px;
 	text-transform: uppercase;
 }
