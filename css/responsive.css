@@ -1,4 +1,7 @@
 @media screen and (max-width: 480px) and (min-width: 300px){
+	.navbar-nav{
+		text-align: center !important;
+	}
 	.logo{
 		width: 40px !important;
 		height: 31px !important;
@@ -87,8 +90,14 @@
 		width: 110px !important;
 		left: -20px !important
 	}
+	.fa-search{
+		margin-left: 50% !important;
+	}
 }
 @media screen and (max-width: 780px) and (min-width: 482px){
+	.navbar-nav{
+		text-align: center !important;
+	}
 	#banner{
 		height: 500px !important;
 	}
@@ -154,8 +163,28 @@
 	input[type="submit"]{
 		width: 120px !important;
 	}
+	.Sushime_title {
+		font-size: 18px !important;
+	}
+	.Sushime_para {
+		margin: 20px 0px !important;
+		font-size: 13px !important;
+	}
+	.links a {
+		font-size: 9px !important;
+		line-height: 20px !important;
+	}
+	.links {
+		margin-top: 10px !important;
+	}
+	.fa-search{
+		margin-left: 50% !important;
+	}
 }
 @media screen and (max-width: 1000px) and (min-width: 770px){
+	.navbar-nav{
+		text-align: center !important;
+	}
 	#banner{
 		height: 550px !important;
 	}
@@ -221,5 +250,8 @@
 	}
 	.links {
 		margin-top: 10px !important;
+	}
+	.fa-search{
+		margin-left: 50% !important;
 	}
 }
